@@ -1,5 +1,6 @@
 import numpy as np
 import seaborn as sns
+import matplotlib.pyplot as plt
 
 
 def plot_daily_frame(data, col="", year_n=250):
